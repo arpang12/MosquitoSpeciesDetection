@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="images/output.jpg" width="350"/>
-  <img src="images/jjg.png" width="350"/>
+  <img src="images/klo.png" width="350"/>
 </p>
 
 <p align="center">
-  <img src="images/jjg.png" width="350"/>
+  <img src="images/klo.png" width="350"/>
   <img src="images/image6.png" width="350"/>
 </p>
 
@@ -18,5 +18,5 @@
 
 <p align="center">
   <img src="tests/fiesta.jpg" width="350"/>
-  <img src="uploads/fiesta.jpg" width="350"/>
+  <img src="uploads/aug_Anopheles2_0_4575.jpg" width="350"/>
 </p>
