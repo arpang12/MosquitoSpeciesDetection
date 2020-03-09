@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="images/output.jpg" width="350"/>
-  <img src="images/image4.png" width="350"/>
+  <img src="images/jjg.png" width="350"/>
 </p>
 
 <p align="center">
-  <img src="images/image5.png" width="350"/>
+  <img src="images/jjg.png" width="350"/>
   <img src="images/image6.png" width="350"/>
 </p>
 
