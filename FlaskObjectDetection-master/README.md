@@ -17,6 +17,6 @@
 ## Tests
 
 <p align="center">
-  <img src="tests/fiesta.jpg" width="350"/>
+  <img src="uploads/aedes_albopictus.jpg" width="350"/>
   <img src="uploads/aug_Anopheles2_0_4575.jpg" width="350"/>
 </p>
