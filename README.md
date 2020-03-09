@@ -1,4 +1,4 @@
-# Mosquito species detection using Moblenet V2 object dtection alogrithm
+# Mosquito species detection using Moblenet V2 object detection alogrithm
 This is a mosquito species detection web app which can detect species of mosquito using tensorflow object-detection api
 
 # Models trained 
