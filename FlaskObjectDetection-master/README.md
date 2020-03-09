@@ -5,7 +5,7 @@
 ## Web App
 
 <p align="center">
-  <img src="images/klo.png" width="350"/>
+  <img src="images/output.jpg" width="350"/>
 </p>
 
 ## Test
