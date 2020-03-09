@@ -19,9 +19,21 @@ Mosquito detector uses a number of open source projects to work properly:
 
 
 Install the python 3.7
+
+
 run installation command
+
+
 $  pip install tensorflow-gpu==1.14.0
+
+
 run command
+
+
 $ pip install -r requirements.txt
+
+
 then run 
+
+
 $ python app.py
